@@ -1,0 +1,12 @@
+name: qsar-workflow
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - rdkit
+  - matplotlib
+  - imbalanced-learn
