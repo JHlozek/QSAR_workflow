@@ -5,6 +5,7 @@ Workflow to train a binary classifier quantitative structure activity relationsh
 ## Environment Setup
 
 conda env create -f environment.yml
+
 conda activate qsar-workflow
 
 jupyterlab
